@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 
 <!-- Title Typing Effect -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Lobster&color=58A6FF&size=35&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Hello%2C+I'm+Jae-Yoon+Sung;Research+on+Bacterial+genetics" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Lobster&color=58A6FF&size=60&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Hello%2C+I'm+Jae-Yoon+Sung;Research+on+Bacterial+genetics" alt="Typing SVG" /></a>
 
 <a href="https://scholar.google.co.uk/citations?user=pSxoyuEAAAAJ&hl=ko&oi=sra" target="_blank">
 
