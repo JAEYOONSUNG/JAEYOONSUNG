@@ -119,8 +119,9 @@ o	Big data analysis in multi-omics<br>
 10.	Sung, J.Y.,£, Kim, J.Y.£, Lee, E.M., Baek, J.H., Lee, Y.J., Jin, H.S., Kim, B.C., Lee, D.Y.,*, and Lee, D.W.,*. Molecular insights into keratin degradation by Fervidobacterium islandicum AW-1: An evolutionary perspective on bacterial resilience to starvation.<br>
 11.	Sung, J.Y.,£, Shin.S.M.,£, Hoang, N.K.Q., Dhanasingh, I., Yoo, K.Y., Lim, H.C., Cao, T., Lee, S.J., Kim, S.B., Lee, S.H.,*, and Lee, D.W.,*. Metal-mediated intermolecular interactions contribute to the thermostabilization of primordial sugar isomerases. <br>
 12.	Sung, J.Y., Park, M.K., Park, J.S., Lee, M.H., Lee, Y.J., Kim, K.S., Lee, S.J., and Lee, D.W.,*. Evolutionary genetic traits for thermal adaptation using a pan-genomic approach in the order Bacillales.<br>
+<br>
 
-## CODING (GITHUB)<br>
+## CODING (Github)<br>
 •	DNMB, a combined scripts-based pipeline for comprehensive genomics analysis of non-model bacteria (https://github.com/JAEYOONSUNG/FINDER/ )<br>
 •	Bacillales OGRIs,  (https://github.com/JAEYOONSUNG/Bacillales_OGRI/)<br>
 •	FINDER, a large-scale metagenomic study for enzyme profiles using the focused identification of the NGS-based definitive enzyme research (FINDER) strategy (https://github.com/JAEYOONSUNG/FINDER/)<br>
@@ -136,7 +137,6 @@ o	Big data analysis in multi-omics<br>
 ## CONFERENCES AND PRESENTATIONS<br>
 ### Invited (Talks)<br>
 •	A Strategic Blueprint for the Domestication of Geobacillus stearothermophilus as a Thermophilic Platform Cell using the DNMB Suite, MSK 2024, Jeju, Korea<br>
-### Oral<br>
 •	Large-Scale Metagenomic Study for Enzyme Profiling Using the Focused Identification of the NGS-Based Definitive Enzyme Research (FINDER) Strategy, 2021 BK21 symposium, Yonsei University, Seoul, Korea<br>
 ### Poster<br>
 •	A Strategic Blueprint for the Domestication of Geobacillus stearothermophilus as a Thermophilic Platform Cell using the DNMB Suite, Extremophiles 2024, Loutraki, Greece<br>
