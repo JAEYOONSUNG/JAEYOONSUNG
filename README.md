@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 
 <!-- Title Typing Effect -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&color=58A6FF&size=30&height=50&width=435&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Hello%2C+I'm+Jae-Yoon+Sung" alt="Typing SVG" />
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?type=rounded&font=Montserrat&color=58A6FF&size=30&height=50&width=435&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Hello%2C+I'm+Jae-Yoon+Sung" alt="Typing SVG" />
 </a>
 
 ![header](https://capsule-render.vercel.app/api?type=rounded&color=timeGradient&text=Welcome%20to%20Jae-Yoon's%20GitHub%20👋&animation=twinkling&fontSize=40&fontAlignY=50&fontAlign=50&height=90)
