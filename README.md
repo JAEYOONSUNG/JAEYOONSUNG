@@ -183,4 +183,4 @@ Thesis: “Elucidation of thermophily for Bacillales using a phylogenomic approa
 </details>
 </summary>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFFFFF,10:D0EFFF,30:A0D8FF,75:5CB3FF,100:1E90FF&height=150&section=footer&text=&fontSize=0" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFFFFF,10:D0EFFF,30:A0D8FF,75:5CB3FF,100:1E90FF&height=100&section=footer&text=&fontSize=0" width="100%"/>
