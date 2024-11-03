@@ -71,16 +71,16 @@ Github: https://github.com/JAEYOONSUNG/<br>
 
 ## EDUCATION
 ### Post-Doc. 2024-Present<br>
-Department of Biotechnology<br>
+- Department of Biotechnology, Yonsei University, Seoul, Korea<br>
 Advisor: Dong-Woo Lee<br>
 
 ### Ph.D. 2018.09-2024.08<br>
-Department of Biotechnology, Yonsei University, Seoul, Korea<br>
+- Department of Biotechnology, Yonsei University, Seoul, Korea<br>
 Thesis Advisor: Dong-Woo Lee<br>
 Thesis: “Elucidation of thermophily for Bacillales using a phylogenomic approach and the development of a thermophilic platform host”<br>
 
 ### B.S. 2012.02-2018.02 (including 2 years of military service)<br>
-School of Applied Life Science, Kyungpook National University, Daegu, Korea<br>
+- School of Applied Life Science, Kyungpook National University, Daegu, Korea<br>
 <br>
 
 ## RESEARCH INTERESTS 
