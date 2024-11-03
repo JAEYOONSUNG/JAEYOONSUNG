@@ -24,11 +24,12 @@ Here are some ideas to get you started:
 <br>
 
 
-<details>
-<summary> About Me 
+
+<summary> About Me </summary>
 ## Hi there 👋 
     My name is Jae-Yoon Sung, and I’m currently working as an AI researcher at Yonsei University.  
 
+<details>
 <div align="left">  
 
 ## OBJECTIVE
