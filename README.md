@@ -62,6 +62,8 @@ Here are some ideas to get you started:
 
 ![Jae-Yoon Sung's GitHub stats](https://github-readme-stats.vercel.app/api?username=JAEYOONSUNG&theme=nord&show_icons=true&card_width=320)
 <br>
+[![GITHUB](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2JAEYOONSUNG&count_bg=%23A0D8FF&title_bg=%232F2E2E&icon=github.svg&icon_color=%23FFFFFF&title=GITHUB&edge_flat=false)](https://github.com/JAEYOONSUNG)
+
 </div>
 
 <!-- My CV/resume -->
