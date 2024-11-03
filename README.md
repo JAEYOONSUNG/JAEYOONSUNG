@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 <span>
 <a href="https://scholar.google.co.uk/citations?user=pSxoyuEAAAAJ&hl=ko&oi=sra" target="_blank">
-    <img src="https://img.shields.io/badge/Google Scholar?style=plastic&logo=Google Scholar&logoColor=#4285F4"/>
+    <img src="https://img.shields.io/badge/Google Scholar-4285F4?style=plastic&logo=Google Scholar&logoColor=4285F4"/>
 </a>
 </span>
 
