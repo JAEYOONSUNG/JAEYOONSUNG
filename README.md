@@ -72,16 +72,16 @@ Github: https://github.com/JAEYOONSUNG/<br>
 
 ## EDUCATION
 
-# Post-Doc. 2024-Present<br>
+### Post-Doc. 2024-Present<br>
 Department of Biotechnology<br>
 Advisor: Dong-Woo Lee<br>
 
-# Ph.D. 2018.09-2024.08<br>
+### Ph.D. 2018.09-2024.08<br>
 Department of Biotechnology, Yonsei University, Seoul, Korea<br>
 Thesis Advisor: Dong-Woo Lee<br>
 Thesis: “Elucidation of thermophily for Bacillales using a phylogenomic approach and the development of a thermophilic platform host”<br>
 
-# B.S. 2012.02-2018.02 (including 2 years of military service)<br>
+### B.S. 2012.02-2018.02 (including 2 years of military service)<br>
 School of Applied Life Science, Kyungpook National University, Daegu, Korea<br>
 <br>
 
@@ -137,11 +137,11 @@ o	Big data analysis in multi-omics<br>
 <br>
 
 ## CONFERENCES AND PRESENTATIONS<br>
-# Invited (Talks)<br>
+### Invited (Talks)<br>
 •	A Strategic Blueprint for the Domestication of Geobacillus stearothermophilus as a Thermophilic Platform Cell using the DNMB Suite, MSK 2024, Jeju, Korea<br>
-# Oral<br>
+### Oral<br>
 •	Large-Scale Metagenomic Study for Enzyme Profiling Using the Focused Identification of the NGS-Based Definitive Enzyme Research (FINDER) Strategy, 2021 BK21 symposium, Yonsei University, Seoul, Korea<br>
-# Poster<br>
+### Poster<br>
 •	A Strategic Blueprint for the Domestication of Geobacillus stearothermophilus as a Thermophilic Platform Cell using the DNMB Suite, Extremophiles 2024, Loutraki, Greece<br>
 •	Comparative Genomics and Physiological Characterization of Geobacillus species Reveal Unique Traits in G. stearothermophilus for Industrial Applications, Thermophiles 2023, Bangor, Wales<br>
 •	Conserved Sequence-Based Recombination of Homologous Sugar Isomerases from Diverse Species Reveals Genetic Traits for Environmental Adaptation, SIMB 2022, San Francisco, United States of America<br>
