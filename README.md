@@ -72,7 +72,6 @@ Here are some ideas to get you started:
 <!-- My profile -->
 <div align="left">  
 </div>
-<br><br>
 
 ## JAE-YOON SUNG, Ph.D.
 <br>
