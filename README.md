@@ -23,11 +23,6 @@ Here are some ideas to get you started:
 ![Jae-Yoon Sung's GitHub stats](https://github-readme-stats.vercel.app/api?username=JAEYOONSUNG&theme=nord_icons=true)
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JAEYOONSUNG&layout=donut&show_icons=true&theme=nord&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application" width=38% />
-
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=JAEYOONSUNG&theme=nord&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=94%/>
-
 
 
 
