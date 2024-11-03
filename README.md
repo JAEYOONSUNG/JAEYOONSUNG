@@ -61,7 +61,7 @@ Here are some ideas to get you started:
 <br>
 
 ![Jae-Yoon Sung's GitHub stats](https://github-readme-stats.vercel.app/api?username=JAEYOONSUNG&theme=nord&show_icons=true&card_width=320)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JAEYOONSUNG&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JAEYOONSUNG&layout=compact&theme=nord&card_width=320)
 
 
 <br>
