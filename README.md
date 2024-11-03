@@ -20,10 +20,11 @@ Here are some ideas to get you started:
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&color=58A6FF&size=30&height=50&width=435&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Hello%2C+I'm+Jae-Yoon+Sung" alt="Typing SVG" />
 </a>
 
+<span>
 <a href="https://scholar.google.co.uk/citations?user=pSxoyuEAAAAJ&hl=ko&oi=sra" target="_blank">
     <img src="https://img.shields.io/badge/#4285F4?style=plastic&logo=Google Scholar&logoColor=#4285F4"/>
 </a>
-
+</span>
 
 
 ![Jae-Yoon Sung's GitHub stats](https://github-readme-stats.vercel.app/api?username=JAEYOONSUNG&theme=nord&show_icons=true&card_width=320)
