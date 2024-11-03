@@ -34,6 +34,15 @@ Here are some ideas to get you started:
 </a>
 </span>
 
+<!-- Linkedin -->
+
+<span>
+<a href="https://www.linkedin.com/in/jaeyoonsung/&hl=ko&oi=sra" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=plastic&logo=linkedin&logoColor=0A66C2"/>
+</a>
+</span>
+
+
 <!-- Instagram -->
 <span>
   <a href="https://www.instagram.com/6unoyunr/">
