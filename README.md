@@ -20,6 +20,9 @@ Here are some ideas to get you started:
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&color=58A6FF&size=30&height=50&width=435&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Hello%2C+I'm+Jae-Yoon+Sung" alt="Typing SVG" />
 </a>
 
+### 📞 Contact
+<div style="display:flex; flex-direction:row;">
+
 <!-- Google scholar -->
 <span>
 <a href="https://scholar.google.co.uk/citations?user=pSxoyuEAAAAJ&hl=ko&oi=sra" target="_blank">
@@ -41,15 +44,14 @@ Here are some ideas to get you started:
 </a>
 </span>
 
-### 📞 Contact 📞
-<div style="display:flex; flex-direction:row;">
-
+<!-- G mail -->
 <span>
     <a href="mailto:o3wodbs@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-EA4335?style=plastic&logo=Gmail&logoColor=white"> 
     </a>
 </span>
-    
+
+<!-- Kakaotalk -->    
 <span>
     <a href="https://open.kakao.com/o/sDSWN5Xg">
         <img src="https://img.shields.io/badge/KakaoTalk-FFCD00?style=plastic&logoColor=black&logo=KakaoTalk"> 
