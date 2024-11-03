@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 
 <details>
-<summary>About Me</summary>
+<summary> About Me 
 ## Hi there 👋 
     My name is Jae-Yoon Sung, and I’m currently working as an AI researcher at Yonsei University.  
 
