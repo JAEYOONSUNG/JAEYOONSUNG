@@ -85,20 +85,20 @@ School of Applied Life Science, Kyungpook National University, Daegu, Korea<br>
 
 ## RESEARCH INTERESTS 
 ### Extremophiles<br>
-#### Microbial adaptation to extreme environments<br>
-#### Physiology<br>
+- Microbial adaptation to extreme environments<br>
+- Physiology<br>
 ### Synthetic biology<br>
-#### Setup genetic tools for non-model bacteria<br>
-#### Applications of extremophiles for sustainable process<br>
+- Setup genetic tools for non-model bacteria<br>
+- Applications of extremophiles for sustainable process<br>
 ### Protein engineering<br>
-#### Protein evolution <br>
-#### Structural basis functional analysis <br>
+- Protein evolution <br>
+- Structural basis functional analysis <br>
 ### DNA modification<br>
-#### Epigenomics<br>
-#### Precision DNA alteration tools<br>
+- Epigenomics<br>
+- Precision DNA alteration tools<br>
 ### Data mining<br>
-#### Development of a simplified analysis pipeline<br>
-#### Big data analysis in multi-omics<br>
+- Development of a simplified analysis pipeline<br>
+- Big data analysis in multi-omics<br>
 <br>
 
 ## PUBLICATIONS (2018-PRESENT)<br>
