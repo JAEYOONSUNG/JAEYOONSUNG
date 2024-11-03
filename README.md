@@ -120,33 +120,33 @@ School of Applied Life Science, Kyungpook National University, Daegu, Korea<br>
 <br>
 
 ## CODING (Github)<br>
-•	DNMB, a combined scripts-based pipeline for comprehensive genomics analysis of non-model bacteria (https://github.com/JAEYOONSUNG/FINDER/ )<br>
-•	Bacillales OGRIs,  (https://github.com/JAEYOONSUNG/Bacillales_OGRI/)<br>
-•	FINDER, a large-scale metagenomic study for enzyme profiles using the focused identification of the NGS-based definitive enzyme research (FINDER) strategy (https://github.com/JAEYOONSUNG/FINDER/)<br>
+- DNMB, a combined scripts-based pipeline for comprehensive genomics analysis of non-model bacteria (https://github.com/JAEYOONSUNG/FINDER/ )<br>
+- Bacillales OGRIs,  (https://github.com/JAEYOONSUNG/Bacillales_OGRI/)<br>
+- FINDER, a large-scale metagenomic study for enzyme profiles using the focused identification of the NGS-based definitive enzyme research (FINDER) strategy (https://github.com/JAEYOONSUNG/FINDER/)<br>
 
 ## SCHOLARSHIPS AND AWARDS<br>
-•	Best Poster Award, 2017 International Meeting of the Microbiology Society of Korea (MSK)<br>
-•	BK21 FOUR Best Research Award, BK21 Yonsei education & Research center for biosystems (2021.01)<br>
-•	BK21 FOUR Best Research Award, BK21 Yonsei education & Research center for biosystems (2022.01)<br>
-•	BK21 FOUR Best Research Award, BK21 Yonsei education & Research center for biosystems (2024.01)<br>
-•	Extremophiles 2024 (2024.09)<br>
+- Best Poster Award, 2017 International Meeting of the Microbiology Society of Korea (MSK)<br>
+- BK21 FOUR Best Research Award, BK21 Yonsei education & Research center for biosystems (2021.01)<br>
+- BK21 FOUR Best Research Award, BK21 Yonsei education & Research center for biosystems (2022.01)<br>
+- BK21 FOUR Best Research Award, BK21 Yonsei education & Research center for biosystems (2024.01)<br>
+- Extremophiles 2024 (2024.09)<br>
 <br>
 
 ## CONFERENCES AND PRESENTATIONS<br>
 ### Invited (Talks)<br>
-•	A Strategic Blueprint for the Domestication of Geobacillus stearothermophilus as a Thermophilic Platform Cell using the DNMB Suite, MSK 2024, Jeju, Korea<br>
-•	Large-Scale Metagenomic Study for Enzyme Profiling Using the Focused Identification of the NGS-Based Definitive Enzyme Research (FINDER) Strategy, 2021 BK21 symposium, Yonsei University, Seoul, Korea<br>
+- A Strategic Blueprint for the Domestication of Geobacillus stearothermophilus as a Thermophilic Platform Cell using the DNMB Suite, MSK 2024, Jeju, Korea<br>
+- Large-Scale Metagenomic Study for Enzyme Profiling Using the Focused Identification of the NGS-Based Definitive Enzyme Research (FINDER) Strategy, 2021 BK21 symposium, Yonsei University, Seoul, Korea<br>
 ### Poster<br>
-•	A Strategic Blueprint for the Domestication of Geobacillus stearothermophilus as a Thermophilic Platform Cell using the DNMB Suite, Extremophiles 2024, Loutraki, Greece<br>
-•	Comparative Genomics and Physiological Characterization of Geobacillus species Reveal Unique Traits in G. stearothermophilus for Industrial Applications, Thermophiles 2023, Bangor, Wales<br>
-•	Conserved Sequence-Based Recombination of Homologous Sugar Isomerases from Diverse Species Reveals Genetic Traits for Environmental Adaptation, SIMB 2022, San Francisco, United States of America<br>
-•	Conserved Sequence-Based Recombination of Homologous Sugar Isomerases from Diverse Species Reveals Genetic Traits for Environmental Adaptation, KMB 2022, Korea<br>
-•	Conserved Sequence-Based Recombination of Homologous Sugar Isomerases from Diverse Species Reveals Genetic Traits for Environmental Adaptation, KSBB 2021, Jeju, Korea<br>
-•	Intervening variable sequence regions of homologous sugar isomerases define thermal adaptation traits, KMB 2021, Busan, Korea<br>
-•	High-resolution crystal structures of homologous alkalophilic and acidophilic L-arabinose isomerases unveil the catalytic mechanism and pH-dependent activity, KoSFoST 2019, Incheon, Korea<br>
-•	The Sulfur Formation System Mediating Fe-S Cluster Assembly in Fervidobacterium islandicum AW-1 is Associated with Keratin Degradation, Extremophiles 2018, Ischia, Italy<br>
-•	Development of a Cell Growth-Based High-throughput Screening System for Engineering the Substrate Specificity of Sugar Isomerase, Extremophiles 2018, Ischia, Italy<br>
-•	Development of a Cell Growth-Based High-throughput Screening System for Engineering of the Substrate Specificity of L-Arabinose Isomerase, MSK 2017, Busan, Korea<br>
+- A Strategic Blueprint for the Domestication of Geobacillus stearothermophilus as a Thermophilic Platform Cell using the DNMB Suite, Extremophiles 2024, Loutraki, Greece<br>
+- Comparative Genomics and Physiological Characterization of Geobacillus species Reveal Unique Traits in G. stearothermophilus for Industrial Applications, Thermophiles 2023, Bangor, Wales<br>
+- Conserved Sequence-Based Recombination of Homologous Sugar Isomerases from Diverse Species Reveals Genetic Traits for Environmental Adaptation, SIMB 2022, San Francisco, United States of America<br>
+- Conserved Sequence-Based Recombination of Homologous Sugar Isomerases from Diverse Species Reveals Genetic Traits for Environmental Adaptation, KMB 2022, Korea<br>
+- Conserved Sequence-Based Recombination of Homologous Sugar Isomerases from Diverse Species Reveals Genetic Traits for Environmental Adaptation, KSBB 2021, Jeju, Korea<br>
+- Intervening variable sequence regions of homologous sugar isomerases define thermal adaptation traits, KMB 2021, Busan, Korea<br>
+- High-resolution crystal structures of homologous alkalophilic and acidophilic L-arabinose isomerases unveil the catalytic mechanism and pH-dependent activity, KoSFoST 2019, Incheon, Korea<br>
+- The Sulfur Formation System Mediating Fe-S Cluster Assembly in Fervidobacterium islandicum AW-1 is Associated with Keratin Degradation, Extremophiles 2018, Ischia, Italy<br>
+- Development of a Cell Growth-Based High-throughput Screening System for Engineering the Substrate Specificity of Sugar Isomerase, Extremophiles 2018, Ischia, Italy<br>
+- Development of a Cell Growth-Based High-throughput Screening System for Engineering of the Substrate Specificity of L-Arabinose Isomerase, MSK 2017, Busan, Korea<br>
 <br>
 
 ## PATENTS<br>
@@ -161,10 +161,10 @@ School of Applied Life Science, Kyungpook National University, Daegu, Korea<br>
 <br>
 
 ## PROFESSIONAL SKILLS TRAINING<br>
-	2018 R Workshop, Seoul University, Seoul, Korea<br>
-	2019 Workshop on Smart Cell Factory Design, Sogang University, Seoul, Korea<br>
-	2022 Winter Data Science Workshop, Yonsei University, Seoul, Korea<br>
--	Python Programming and Web Crawling, Data Literacy using R, Machine Learning with Python, Introduction to Deep Learning with Python, Applied Deep Learning with Python<br>
+- 2018 R Workshop, Seoul University, Seoul, Korea<br>
+- 2019 Workshop on Smart Cell Factory Design, Sogang University, Seoul, Korea<br>
+- 2022 Winter Data Science Workshop, Yonsei University, Seoul, Korea<br>
+- Python Programming and Web Crawling, Data Literacy using R, Machine Learning with Python, Introduction to Deep Learning with Python, Applied Deep Learning with Python<br>
 <br>
 
 ## ADDITIONAL SKILLS<br>
