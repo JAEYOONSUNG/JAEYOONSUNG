@@ -41,6 +41,17 @@ Here are some ideas to get you started:
 </a>
 </span>
 
+## 📞 Contact 📞
+<div style="display:flex; flex-direction:row;">
+    <a href="mailto:o3wodbs@gmail.com">
+        <img src="https://img.shields.io/badge/
+        Gmail-EA4335?style=plastic&logo=Gmail&logoColor=white"> 
+    </a>
+    <a href="https://open.kakao.com/o/sDSWN5Xg">
+        <img src="https://img.shields.io/badge/
+        KakaoTalk-FFCD00?style=plastic&logoColor=black&logo=KakaoTalk"> 
+    </a>
+
 
 ![Jae-Yoon Sung's GitHub stats](https://github-readme-stats.vercel.app/api?username=JAEYOONSUNG&theme=nord&show_icons=true&card_width=320)
 <br>
