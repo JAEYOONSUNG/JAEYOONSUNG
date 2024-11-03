@@ -120,13 +120,10 @@ o	Big data analysis in multi-omics<br>
 11.	Sung, J.Y.,£, Shin.S.M.,£, Hoang, N.K.Q., Dhanasingh, I., Yoo, K.Y., Lim, H.C., Cao, T., Lee, S.J., Kim, S.B., Lee, S.H.,*, and Lee, D.W.,*. Metal-mediated intermolecular interactions contribute to the thermostabilization of primordial sugar isomerases. <br>
 12.	Sung, J.Y., Park, M.K., Park, J.S., Lee, M.H., Lee, Y.J., Kim, K.S., Lee, S.J., and Lee, D.W.,*. Evolutionary genetic traits for thermal adaptation using a pan-genomic approach in the order Bacillales.<br>
 
-
 ## CODING (GITHUB)<br>
 •	DNMB, a combined scripts-based pipeline for comprehensive genomics analysis of non-model bacteria (https://github.com/JAEYOONSUNG/FINDER/ )<br>
 •	Bacillales OGRIs,  (https://github.com/JAEYOONSUNG/Bacillales_OGRI/)<br>
 •	FINDER, a large-scale metagenomic study for enzyme profiles using the focused identification of the NGS-based definitive enzyme research (FINDER) strategy (https://github.com/JAEYOONSUNG/FINDER/)<br>
-•	
-
 
 ## SCHOLARSHIPS AND AWARDS<br>
 •	Best Poster Award, 2017 International Meeting of the Microbiology Society of Korea (MSK)<br>
@@ -155,11 +152,11 @@ o	Big data analysis in multi-omics<br>
 <br>
 
 ## PATENTS<br>
-(International)<br>
+### (International)<br>
 1.	A recombinant strain having modified sugar metabolic pathway and method for screening sugar isomerase using same. US 2020/0087647 A1. Mar. 19, 2020<br>
 2.	Composition for epimerization of non-phosphorylated hexose comprising sugar epimerases derived from thermophiles. US 9914984 B2. Mar. 13, 2018 (EP3072403A1/CN105916389A).<br>
 
-## (Domestic)<br>
+### (Domestic)<br>
 1.	희귀당 비대사성 균주의 희귀당 자화능 결정 유전자군 제공방법(등록:10-2590888), 2023.10.13.<br>
 2.	변형된 당 대사 경로를 갖는 재조합 균주를 이용한 당이성화 효소의 스크리닝 방법(등록:10-2007890), 2019. 7.31.<br>
 3.	변형된 당 대사 경로를 갖는 재조합 균주 및 이를 이용한 당이성화 효소의 스크리닝 방법(등록:10-1979213), 2019. 5.10.<br>
