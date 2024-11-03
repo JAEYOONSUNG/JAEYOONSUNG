@@ -56,6 +56,7 @@ Here are some ideas to get you started:
     </a>
 </span>
 </div>
+<br>
 
 ![Jae-Yoon Sung's GitHub stats](https://github-readme-stats.vercel.app/api?username=JAEYOONSUNG&theme=nord&show_icons=true&card_width=320)
 <br>
