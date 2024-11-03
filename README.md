@@ -170,7 +170,7 @@ School of Applied Life Science, Kyungpook National University, Daegu, Korea<br>
 
 ## ADDITIONAL SKILLS<br>
 <span>
-    <img src="https://img.shields.io/badge/ C language-blueviolet?style=plastic&logo=C&logoColor=white"/>
+    <img src="https://img.shields.io/badge/ R-276DC3?style=plastic&logo=C&logoColor=white"/>
 </span>
 <span>
     <img src="https://img.shields.io/badge/ Matlab-red?style=plastic"/>
@@ -179,12 +179,10 @@ School of Applied Life Science, Kyungpook National University, Daegu, Korea<br>
     <img src="https://img.shields.io/badge/ Python-informational?style=plastic&logo=Python&logoColor=white"/>
 </span>
    
-## Publications 
 
 </div>
-</div>
 
-<br><br>
+
 <div align="center">
 </details>
 </summary>
