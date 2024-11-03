@@ -24,8 +24,7 @@ Here are some ideas to get you started:
 <br>
 
 
-<details>
-About Me
+<details> ![About Me]
 ## Hi there 👋 
     My name is Jae-Yoon Sung, and I’m currently working as an AI researcher at Yonsei University.  
 
