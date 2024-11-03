@@ -123,6 +123,7 @@ School of Applied Life Science, Kyungpook National University, Daegu, Korea<br>
 - DNMB, a combined scripts-based pipeline for comprehensive genomics analysis of non-model bacteria (https://github.com/JAEYOONSUNG/FINDER/ )<br>
 - Bacillales OGRIs,  (https://github.com/JAEYOONSUNG/Bacillales_OGRI/)<br>
 - FINDER, a large-scale metagenomic study for enzyme profiles using the focused identification of the NGS-based definitive enzyme research (FINDER) strategy (https://github.com/JAEYOONSUNG/FINDER/)<br>
+<br>
 
 ## SCHOLARSHIPS AND AWARDS<br>
 - Best Poster Award, 2017 International Meeting of the Microbiology Society of Korea (MSK)<br>
