@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 <img src="https://img.shields.io/badge/4285F4?style=plastic&logo=4285F4&logoColor=000000"/>
 
-![Jae-Yoon Sung's GitHub stats](https://github-readme-stats.vercel.app/api?username=JAEYOONSUNG&theme=nord_icons=true&show_icons=true&card_width=320)
+![Jae-Yoon Sung's GitHub stats](https://github-readme-stats.vercel.app/api?username=JAEYOONSUNG&theme=nord_icons=true&show_icons=true&card_width=320&align="center")
 <br>
 </div>
 
