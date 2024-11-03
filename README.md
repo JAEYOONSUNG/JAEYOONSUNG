@@ -62,7 +62,6 @@ Postdoctoral fellow<br>
 Dept. of Biotechnology<br>
 College of Life Science and Biotechnology<br>
 Yonsei University<br>
-
 Seoul 03722, KOREA.<br>
 Tel: (+82)-2-2123-7292<br>
 Phone: (+82)-10-3319-6382<br>
@@ -71,7 +70,6 @@ Github: https://github.com/JAEYOONSUNG/<br>
 <br>
 
 ## EDUCATION
-
 ### Post-Doc. 2024-Present<br>
 Department of Biotechnology<br>
 Advisor: Dong-Woo Lee<br>
@@ -86,21 +84,21 @@ School of Applied Life Science, Kyungpook National University, Daegu, Korea<br>
 <br>
 
 ## RESEARCH INTERESTS 
-•	Extremophiles<br>
-o	Microbial adaptation to extreme environments<br>
-o	Physiology<br>
-•	Synthetic biology<br>
-o	Setup genetic tools for non-model bacteria<br>
-o	Applications of extremophiles for sustainable process<br>
-•	Protein engineering<br>
-o	Protein evolution <br>
-o	Structural basis functional analysis <br>
-•	DNA modification<br>
-o	Epigenomics<br>
-o	Precision DNA alteration tools<br>
-•	Data mining<br>
-o	Development of a simplified analysis pipeline<br>
-o	Big data analysis in multi-omics<br>
+### Extremophiles<br>
+#### Microbial adaptation to extreme environments<br>
+#### Physiology<br>
+### Synthetic biology<br>
+#### Setup genetic tools for non-model bacteria<br>
+#### Applications of extremophiles for sustainable process<br>
+### Protein engineering<br>
+#### Protein evolution <br>
+#### Structural basis functional analysis <br>
+### DNA modification<br>
+#### Epigenomics<br>
+#### Precision DNA alteration tools<br>
+### Data mining<br>
+#### Development of a simplified analysis pipeline<br>
+#### Big data analysis in multi-omics<br>
 <br>
 
 ## PUBLICATIONS (2018-PRESENT)<br>
