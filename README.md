@@ -56,7 +56,7 @@ Here are some ideas to get you started:
 </div>
 <br><br>
 
-JAE-YOON SUNG, Ph.D.
+## JAE-YOON SUNG, Ph.D.
 <br>
 Postdoctoral fellow<br>
 Dept. of Biotechnology<br>
@@ -70,22 +70,22 @@ E-mail: sungjaeyoon@yonsei.ac.kr, o3wodbs@gmail.com <br>
 Github: https://github.com/JAEYOONSUNG/<br>
 <br>
 
-##EDUCATION
+## EDUCATION
 
-	Post-Doc. 2024-Present<br>
+# Post-Doc. 2024-Present<br>
 Department of Biotechnology<br>
 Advisor: Dong-Woo Lee<br>
 
-	Ph.D. 2018.09-2024.08<br>
+# Ph.D. 2018.09-2024.08<br>
 Department of Biotechnology, Yonsei University, Seoul, Korea<br>
 Thesis Advisor: Dong-Woo Lee<br>
 Thesis: “Elucidation of thermophily for Bacillales using a phylogenomic approach and the development of a thermophilic platform host”<br>
 
-	B.S. 2012.02-2018.02 (including 2 years of military service)<br>
+# B.S. 2012.02-2018.02 (including 2 years of military service)<br>
 School of Applied Life Science, Kyungpook National University, Daegu, Korea<br>
 <br>
 
-##RESEARCH INTERESTS 
+## RESEARCH INTERESTS 
 •	Extremophiles<br>
 o	Microbial adaptation to extreme environments<br>
 o	Physiology<br>
@@ -103,8 +103,7 @@ o	Development of a simplified analysis pipeline<br>
 o	Big data analysis in multi-omics<br>
 <br>
 
-##PUBLICATIONS (2018-PRESENT)<br>
-
+## PUBLICATIONS (2018-PRESENT)<br>
 1.	Sung, J.Y.£, Ganbat, D.£, Kim, S,B., Lee, S.J.*, and Lee, D.W.* (2024) Complete genome sequences of Geobacillus stearothermophilus strains EF60045 and SJEF4-2 from Korean hot springs. Microbiol. Resour. Announc. e00573-24.<br>
 2.	Joo, Y.H. £, Sung, J.Y.£, Shin, S.M., Park, S.J., Kim, K.S., Park, K.D., Kim, S.B., and Lee, D.W.* (2023) A retroaldol reaction prompted the evolvability of a phosphotransferase system for the utilization of a rare sugar. Microbiol. Spectr. 11(2) e03660-22. <br>
 3.	Sung, J.Y. £, Lee, Y.J. £, Cho, Y.J., Lee, S.J., Lee, H.S., Bae, J.W., Shin, J.H., Koh, H., Kim, H.J.*, and Lee, D.W.* (2021) A large scale metagenomic study for enzyme profiles using the focused identification of the NGS-based definitive enzyme research (FINDER) strategy. Biotechnol. Bioeng. 118: 4360-4374. (Editor’s choice articles/Front cover paper) <br>
@@ -114,7 +113,7 @@ o	Big data analysis in multi-omics<br>
 7.	Kim, K.N., Yang, J.O., Sung, J.Y., Lee, J.Y., Park, J.S., Lee, H.S., Lee, B.H., Ren, Y., Lee, D.W.*, and Lee, S.E.* (2019) Minimization of energy transduction confers resistance to phosphine in crop arthropods. Sci. Rep. 9, 14605. <br>
 <br>
 
-##PAPER IN PREPARATION<br>
+## PAPER IN PREPARATION<br>
 8.	Sung, J.Y., Lee, M.H., Kim, H.B., Ganbat, D., Cho, H.W., Lee, S.J., Kim, S.B.,*, and Lee, D.W.*. Harnessing Geobacillus stearothermophilus for enhanced thermophilic enzyme production and evolution.<br>
 9.	Sung, J.Y.,£, Yoo, Y.K.£, Lee, M.H., Yang, S.Y., Cho, H.S.*and Lee, D.W.*. Structural basis mechanism of novel Type III Restriction-Methylation systems in hyperthermophilic Fervidobacterium islandicum AW-1.<br>
 10.	Sung, J.Y.,£, Kim, J.Y.£, Lee, E.M., Baek, J.H., Lee, Y.J., Jin, H.S., Kim, B.C., Lee, D.Y.,*, and Lee, D.W.,*. Molecular insights into keratin degradation by Fervidobacterium islandicum AW-1: An evolutionary perspective on bacterial resilience to starvation.<br>
@@ -122,14 +121,14 @@ o	Big data analysis in multi-omics<br>
 12.	Sung, J.Y., Park, M.K., Park, J.S., Lee, M.H., Lee, Y.J., Kim, K.S., Lee, S.J., and Lee, D.W.,*. Evolutionary genetic traits for thermal adaptation using a pan-genomic approach in the order Bacillales.<br>
 
 
-##CODING (GITHUB)<br>
+## CODING (GITHUB)<br>
 •	DNMB, a combined scripts-based pipeline for comprehensive genomics analysis of non-model bacteria (https://github.com/JAEYOONSUNG/FINDER/ )<br>
 •	Bacillales OGRIs,  (https://github.com/JAEYOONSUNG/Bacillales_OGRI/)<br>
 •	FINDER, a large-scale metagenomic study for enzyme profiles using the focused identification of the NGS-based definitive enzyme research (FINDER) strategy (https://github.com/JAEYOONSUNG/FINDER/)<br>
 •	
 
 
-##SCHOLARSHIPS AND AWARDS<br>
+## SCHOLARSHIPS AND AWARDS<br>
 •	Best Poster Award, 2017 International Meeting of the Microbiology Society of Korea (MSK)<br>
 •	BK21 FOUR Best Research Award, BK21 Yonsei education & Research center for biosystems (2021.01)<br>
 •	BK21 FOUR Best Research Award, BK21 Yonsei education & Research center for biosystems (2022.01)<br>
@@ -137,12 +136,12 @@ o	Big data analysis in multi-omics<br>
 •	Extremophiles 2024 (2024.09)<br>
 <br>
 
-##CONFERENCES AND PRESENTATIONS<br>
-Invited (Talks)<br>
+## CONFERENCES AND PRESENTATIONS<br>
+# Invited (Talks)<br>
 •	A Strategic Blueprint for the Domestication of Geobacillus stearothermophilus as a Thermophilic Platform Cell using the DNMB Suite, MSK 2024, Jeju, Korea<br>
-Oral<br>
+# Oral<br>
 •	Large-Scale Metagenomic Study for Enzyme Profiling Using the Focused Identification of the NGS-Based Definitive Enzyme Research (FINDER) Strategy, 2021 BK21 symposium, Yonsei University, Seoul, Korea<br>
-Poster<br>
+# Poster<br>
 •	A Strategic Blueprint for the Domestication of Geobacillus stearothermophilus as a Thermophilic Platform Cell using the DNMB Suite, Extremophiles 2024, Loutraki, Greece<br>
 •	Comparative Genomics and Physiological Characterization of Geobacillus species Reveal Unique Traits in G. stearothermophilus for Industrial Applications, Thermophiles 2023, Bangor, Wales<br>
 •	Conserved Sequence-Based Recombination of Homologous Sugar Isomerases from Diverse Species Reveals Genetic Traits for Environmental Adaptation, SIMB 2022, San Francisco, United States of America<br>
@@ -155,24 +154,23 @@ Poster<br>
 •	Development of a Cell Growth-Based High-throughput Screening System for Engineering of the Substrate Specificity of L-Arabinose Isomerase, MSK 2017, Busan, Korea<br>
 <br>
 
-##PATENTS<br>
+## PATENTS<br>
 (International)<br>
 1.	A recombinant strain having modified sugar metabolic pathway and method for screening sugar isomerase using same. US 2020/0087647 A1. Mar. 19, 2020<br>
 2.	Composition for epimerization of non-phosphorylated hexose comprising sugar epimerases derived from thermophiles. US 9914984 B2. Mar. 13, 2018 (EP3072403A1/CN105916389A).<br>
 
-##(Domestic)<br>
+## (Domestic)<br>
 1.	희귀당 비대사성 균주의 희귀당 자화능 결정 유전자군 제공방법(등록:10-2590888), 2023.10.13.<br>
 2.	변형된 당 대사 경로를 갖는 재조합 균주를 이용한 당이성화 효소의 스크리닝 방법(등록:10-2007890), 2019. 7.31.<br>
 3.	변형된 당 대사 경로를 갖는 재조합 균주 및 이를 이용한 당이성화 효소의 스크리닝 방법(등록:10-1979213), 2019. 5.10.<br>
 <br>
 
-##PROFESSIONAL SKILLS TRAINING<br>
+## PROFESSIONAL SKILLS TRAINING<br>
 	2018 R Workshop, Seoul University, Seoul, Korea<br>
 	2019 Workshop on Smart Cell Factory Design, Sogang University, Seoul, Korea<br>
 	2022 Winter Data Science Workshop, Yonsei University, Seoul, Korea<br>
 -	Python Programming and Web Crawling, Data Literacy using R, Machine Learning with Python, Introduction to Deep Learning with Python, Applied Deep Learning with Python<br>
 <br>
-
 
 ## ADDITIONAL SKILLS<br>
 <span>
