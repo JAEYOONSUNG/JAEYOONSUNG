@@ -173,18 +173,14 @@ Thesis: “Elucidation of thermophily for Bacillales using a phylogenomic approa
     <img src="https://img.shields.io/badge/ R-276DC3?style=plastic&logo=C&logoColor=white"/>
 </span>
 <span>
-    <img src="https://img.shields.io/badge/ Matlab-red?style=plastic"/>
-</span>
-<span>
     <img src="https://img.shields.io/badge/ Python-informational?style=plastic&logo=Python&logoColor=white"/>
 </span>
    
-
 </div>
-
+</div>
 
 <div align="center">
 </details>
 </summary>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=100&section=footer&text=&fontSize=0" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFFFFF,10:D0EFFF,30:A0D8FF,75:5CB3FF,100:1E90FF&height=100&section=footer&text=&fontSize=0" width="100%"/>
