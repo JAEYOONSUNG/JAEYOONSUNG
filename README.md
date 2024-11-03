@@ -20,12 +20,21 @@ Here are some ideas to get you started:
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&color=58A6FF&size=30&height=50&width=435&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Hello%2C+I'm+Jae-Yoon+Sung" alt="Typing SVG" />
 </a>
 
+<!-- Google scholar -->
 <span>
 <a href="https://scholar.google.co.uk/citations?user=pSxoyuEAAAAJ&hl=ko&oi=sra" target="_blank">
     <img src="https://img.shields.io/badge/Google Scholar-4285F4?style=plastic&logo=Google Scholar&logoColor=4285F4"/>
 </a>
 </span>
 
+<!-- ORCID -->
+<span>
+<a href="(https://orcid.org/0000-0002-2475-8743)&hl=ko&oi=sra" target="_blank">
+    <img src="https://img.shields.io/badge/ORCID-A6CE39?style=plastic&logo=ORCID&logoColor=A6CE39"/>
+</a>
+</span>
+
+<!-- Instagram -->
 <span>
   <a href="https://www.instagram.com/6unoyunr/">
     <img src="https://img.shields.io/badge/Instagram-ff69b4?style=plastic&logo=Instagram&logoColor=white"/>
