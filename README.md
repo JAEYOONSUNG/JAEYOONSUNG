@@ -147,12 +147,12 @@ Thesis: “Elucidation of thermophily for Bacillales using a phylogenomic approa
 <br>
 
 ## CODING (Github)<br>
-- DNMB, a combined scripts-based pipeline for comprehensive genomics analysis of non-model bacteria (https://github.com/JAEYOONSUNG/DNMB/ )<br>
+- DNMB, a combined scripts-based pipeline for comprehensive genomics analysis of non-model bacteria (https://github.com/JAEYOONSUNG/DNMB/)<br>
 - GenomeDrawer,  (https://github.com/JAEYOONSUNG/GenomeDrawer/)<br>
 - BPGAconvert,  (https://github.com/JAEYOONSUNG/BPGAconvert/)<br>
 - OGRIparser,  (https://github.com/JAEYOONSUNG/OGRIparser/)<br>
 - FINDER, a large-scale metagenomic study for enzyme profiles using the focused identification of the NGS-based definitive enzyme research (FINDER) strategy (https://github.com/JAEYOONSUNG/FINDER/)<br>
-- mRNAcal, a comprehensive R Package for streamlined mRNA region extraction and RNA secondary structure analysis with the viennaRNA<br>
+- mRNAcal, a comprehensive R Package for streamlined mRNA region extraction and RNA secondary structure analysis with the viennaRNA (https://github.com/JAEYOONSUNG/mRNAcal/)<br>
 <br>
 
 ## SCHOLARSHIPS AND AWARDS<br>
