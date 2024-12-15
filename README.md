@@ -128,13 +128,14 @@ Thesis: “Elucidation of thermophily for Bacillales using a phylogenomic approa
 <br>
 
 ## PUBLICATIONS (2018-PRESENT)<br>
-1.	Sung, J.Y.£, Ganbat, D.£, Kim, S,B., Lee, S.J.*, and Lee, D.W.* (2024) Complete genome sequences of Geobacillus stearothermophilus strains EF60045 and SJEF4-2 from Korean hot springs. Microbiol. Resour. Announc. e00573-24.<br>
-2.	Joo, Y.H. £, Sung, J.Y.£, Shin, S.M., Park, S.J., Kim, K.S., Park, K.D., Kim, S.B., and Lee, D.W.* (2023) A retroaldol reaction prompted the evolvability of a phosphotransferase system for the utilization of a rare sugar. Microbiol. Spectr. 11(2) e03660-22. <br>
-3.	Sung, J.Y. £, Lee, Y.J. £, Cho, Y.J., Lee, S.J., Lee, H.S., Bae, J.W., Shin, J.H., Koh, H., Kim, H.J.*, and Lee, D.W.* (2021) A large scale metagenomic study for enzyme profiles using the focused identification of the NGS-based definitive enzyme research (FINDER) strategy. Biotechnol. Bioeng. 118: 4360-4374. (Editor’s choice articles/Front cover paper) <br>
-4.	Jin, H.S. £, Dhanasingh, I. £, Sung, J.Y., La, J.W., Lee, Y., Lee, E.M., Kang, Y.J., Lee, D.Y., Lee, S.H.*, and Lee, D.W.* (2021) The sulfur formation system mediating extracellular cysteine-cystine recycling in Fervidobacterium islandicum AW-1 is associated with keratin degradation. Microb, Biotechnol. 14, 938-952. <br>
-5.	Dhanasingh, I.£, Sung, J.Y.£, Ghosh, S., La, J.W., Kang, E.J., Lee, D.W., and Lee, S.H.*. (2021) Structure of oxidized pyrrolidone carboxypeptidase from Fervidobacterium islandicum AW-1 reveals unique structural features for thermostability and keratinolysis. Biochem. Biophys. Res. Commun. 540, 101-107. <br>
-6.	Kang, E.J., Jin, H.S, La, J.W., Sung, J.Y., Park, S.Y., Kim, W.C., and Lee, D.W.* (2020) Identification of keratinases from Fervidobacterium islandicum AW-1 using dynamic gene expression profiling. Microb. Biotechnol. 13, 442-457. <br>
-7.	Kim, K.N., Yang, J.O., Sung, J.Y., Lee, J.Y., Park, J.S., Lee, H.S., Lee, B.H., Ren, Y., Lee, D.W.*, and Lee, S.E.* (2019) Minimization of energy transduction confers resistance to phosphine in crop arthropods. Sci. Rep. 9, 14605. <br>
+1.	Ganbat, S., Ganbat, D., Sung, J.Y., Kim, S,B., Lee, D.W., and Lee, S.J.* Complete genome sequence of polyhydroxyalkaonate accumulating bacterium Schlegelella aquatica HS-12-14 isolated from Korean hot spring. Microbiol. Resour. Announc. 
+2.	Sung, J.Y.£, Ganbat, D.£, Kim, S,B., Lee, S.J.*, and Lee, D.W.* (2024) Complete genome sequences of Geobacillus stearothermophilus strains EF60045 and SJEF4-2 from Korean hot springs. Microbiol. Resour. Announc. e00573-24.<br>
+3.	Joo, Y.H. £, Sung, J.Y.£, Shin, S.M., Park, S.J., Kim, K.S., Park, K.D., Kim, S.B., and Lee, D.W.* (2023) A retroaldol reaction prompted the evolvability of a phosphotransferase system for the utilization of a rare sugar. Microbiol. Spectr. 11(2) e03660-22. <br>
+4.	Sung, J.Y. £, Lee, Y.J. £, Cho, Y.J., Lee, S.J., Lee, H.S., Bae, J.W., Shin, J.H., Koh, H., Kim, H.J.*, and Lee, D.W.* (2021) A large scale metagenomic study for enzyme profiles using the focused identification of the NGS-based definitive enzyme research (FINDER) strategy. Biotechnol. Bioeng. 118: 4360-4374. (Editor’s choice articles/Front cover paper) <br>
+5.	Jin, H.S. £, Dhanasingh, I. £, Sung, J.Y., La, J.W., Lee, Y., Lee, E.M., Kang, Y.J., Lee, D.Y., Lee, S.H.*, and Lee, D.W.* (2021) The sulfur formation system mediating extracellular cysteine-cystine recycling in Fervidobacterium islandicum AW-1 is associated with keratin degradation. Microb, Biotechnol. 14, 938-952. <br>
+6.	Dhanasingh, I.£, Sung, J.Y.£, Ghosh, S., La, J.W., Kang, E.J., Lee, D.W., and Lee, S.H.*. (2021) Structure of oxidized pyrrolidone carboxypeptidase from Fervidobacterium islandicum AW-1 reveals unique structural features for thermostability and keratinolysis. Biochem. Biophys. Res. Commun. 540, 101-107. <br>
+7.	Kang, E.J., Jin, H.S, La, J.W., Sung, J.Y., Park, S.Y., Kim, W.C., and Lee, D.W.* (2020) Identification of keratinases from Fervidobacterium islandicum AW-1 using dynamic gene expression profiling. Microb. Biotechnol. 13, 442-457. <br>
+8.	Kim, K.N., Yang, J.O., Sung, J.Y., Lee, J.Y., Park, J.S., Lee, H.S., Lee, B.H., Ren, Y., Lee, D.W.*, and Lee, S.E.* (2019) Minimization of energy transduction confers resistance to phosphine in crop arthropods. Sci. Rep. 9, 14605. <br>
 <br>
 
 ## PAPER IN PREPARATION<br>
