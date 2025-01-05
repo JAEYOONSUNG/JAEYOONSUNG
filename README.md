@@ -183,7 +183,6 @@ Thesis: “Elucidation of thermophily for Bacillales using a phylogenomic approa
 ## PATENTS<br>
 ### (International)<br>
 1.	A recombinant strain having modified sugar metabolic pathway and method for screening sugar isomerase using same. US 2020/0087647 A1. Mar. 19, 2020<br>
-2.	Composition for epimerization of non-phosphorylated hexose comprising sugar epimerases derived from thermophiles. US 9914984 B2. Mar. 13, 2018 (EP3072403A1/CN105916389A).<br>
 
 ### (Domestic)<br>
 1.	희귀당 비대사성 균주의 희귀당 자화능 결정 유전자군 제공방법(등록:10-2590888), 2023.10.13.<br>
