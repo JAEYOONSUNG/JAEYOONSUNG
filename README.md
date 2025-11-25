@@ -31,12 +31,7 @@
 </a>
 </div>
 
-<details>
-<summary>About Me - <a href="https://jaeyoonsung.github.io">CV</a></summary>
-<div align="left">  
-<!-- Add your content here -->
-</div>
-</details>
+📄 [View My CV](https://jaeyoonsung.github.io)
 
 <br>
   
