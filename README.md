@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 <!-- ORCID -->
 <span>
-<a href="https://orcid.org/0000-0002-2475-8743&hl=ko&oi=sra" target="_blank">
+<a href="https://orcid.org/0000-0002-2475-8743" target="_blank">
     <img src="https://img.shields.io/badge/ORCID-A6CE39?style=plastic&logo=ORCID&logoColor=A6CE39"/>
 </a>
 </span>
