@@ -38,6 +38,4 @@
 
 <br>
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJAEYOONSUNG&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFFFFF,10:D0EFFF,30:A0D8FF,75:5CB3FF,100:1E90FF&height=100&section=footer&text=&fontSize=0" width="100%"/>
