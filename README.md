@@ -3,7 +3,7 @@
 <!-- Title Typing Effect -->
 <div align="center">
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&color=58A6FF&size=30&height=50&pause=500&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+Jae-Yoon+Sung's+Github!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=30&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&height=50&lines=Welcome+to+Jae-Yoon+Sung's+Github!" alt="Typing SVG" />
 </a>
 </div>
 
@@ -37,6 +37,7 @@
 <!-- Add your content here -->
 </div>
 </details>
+
 <br>
   
 ![Jae-Yoon Sung's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=JAEYOONSUNG&theme=nord&show_icons=true)
@@ -47,3 +48,4 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJAEYOONSUNG&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFFFFF,10:D0EFFF,30:A0D8FF,75:5CB3FF,100:1E90FF&height=100&section=footer&text=&fontSize=0" width="100%"/>
+```
