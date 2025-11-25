@@ -26,7 +26,8 @@ Here are some ideas to get you started:
 <!-- Google scholar -->
 <span>
 <a href="https://scholar.google.co.uk/citations?user=pSxoyuEAAAAJ" target="_blank">
-    <img src="https://img.shields.io/badge/Google Scholar-4285F4?style=plastic&logo=Google Scholar&logoColor=4285F4"/>
+    <img src="https://img.shields.io/badge/Google%20Scholar-%2320beff?color=1f1f18&logo=google-scholar&style=flat-square Scholar&logoColor=4285F4"/>
+   
 </a>
 </span>
 
