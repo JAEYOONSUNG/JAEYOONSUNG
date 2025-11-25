@@ -32,14 +32,14 @@
 </div>
 
 <br>
-
-<div align="center">
   
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JAEYOONSUNG&theme=nord)](https://git.io/streak-stats)
+![Jae-Yoon Sung's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=JAEYOONSUNG&theme=nord&show_icons=true)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=JAEYOONSUNG&layout=compact&theme=nord)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=JAEYOONSUNG&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+<br>
 
-</div>
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJAEYOONSUNG&count_bg=%2392C6EB&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
 
 <details>
 <summary>About Me - <a href="https://jaeyoonsung.github.io">CV</a></summary>
