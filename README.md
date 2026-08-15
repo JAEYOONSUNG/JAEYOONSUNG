@@ -43,13 +43,9 @@ attached to it, so I wrote one.
   <img alt="Swift" src="https://img.shields.io/badge/Swift-31414F?style=flat-square&logo=swift&logoColor=white">
 </p>
 
-Leaning on BLAST+, HMMER, MMseqs2, MAFFT, IQ-TREE 2, Infernal, ViennaRNA,
-InterProScan and eggNOG-mapper — and on REBASE, MEROPS and dbCAN for the
-reference data.
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/rule-dark.svg">
   <img src="./assets/rule-light.svg" width="100%" alt="">
 </picture>
 
-<sub>Happy to talk about thermophile engineering, editor discovery, or anything that makes a non-model organism tractable — <a href="mailto:o3wodbs@gmail.com">o3wodbs@gmail.com</a> · <a href="https://open.kakao.com/o/sDSWN5Xg">KakaoTalk</a></sub>
+<sub>Happy to talk about non-model bacteria, editor discovery, or anything that makes a stubborn organism tractable — <a href="mailto:o3wodbs@gmail.com">o3wodbs@gmail.com</a> · <a href="https://open.kakao.com/o/sDSWN5Xg">KakaoTalk</a></sub>
