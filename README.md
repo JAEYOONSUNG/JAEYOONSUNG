@@ -30,7 +30,7 @@ attached to it, so I wrote one.
 - **[BPGAconverter](https://github.com/JAEYOONSUNG/BPGAconverter)** — Turns BPGA pan-genome output into tables you can actually analyse.
 - **[MethREfinder](https://github.com/JAEYOONSUNG/MethREfinder)** — Methylation-sensitive restriction sites checked against REBASE — the barrier that quietly kills transformation.
 - **[ChimeraXbridge](https://github.com/JAEYOONSUNG/ChimeraXbridge)** — Puts an AI assistant inside ChimeraX: natural-language control with the session as context, plus quick actions for sequence, motif and interface work.
-- **[Gene Studio](https://github.com/JAEYOONSUNG/GeneStudio-releases)** — A plasmid workbench that runs from one HTML file: circular and linear maps, digests with a simulated gel, PCR, Gibson and Golden Gate, guide design, and `.ab1` review. Builds are public; the source is not.
+- **[Gene Studio](https://jaeyoonsung.github.io/GeneStudio-releases/)** — A plasmid workbench that runs from one HTML file: circular and linear maps, digests with a simulated gel, PCR, Gibson and Golden Gate, guide design, and `.ab1` review. Builds are public; the source is not.
 
 ## Built with
 
